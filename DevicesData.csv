@@ -1,0 +1,13 @@
+deviceId,deviceName,deviceCategory,Optimum Range,commissionDate,expectedYearsOfService,serviceCycle,status,totalRuntime
+1,HYD-PEEL-H-250,Peeler,1000-1200,01/02/2015 00:00:00,25,30,Active,
+2,HYD-PEEL-M-150,Peeler,1000-1200,02/02/2015 00:00:00,25,30,Active,
+3,VIJ-SLI-H-500,Slicer,1000-1200,03/02/2015 00:00:00,25,30,Active,
+4,SUR-FRY-HD-1549,Fryer,1000-1200,04/02/2015 00:00:00,25,15,Active,
+5,SUR-FRY-HD-1636,Fryer,1000-1200,05/02/2015 00:00:00,25,15,Active,
+6,SSN-HD-254,Seasoner,300-350,01/03/2015 00:00:00,30,25,Active,
+7,HYD-MX-H-626,Mixer,300-350,02/03/2015 00:00:00,30,20,Active,
+8,LUK-CL-H-1263,Cooler,300-350,03/03/2015 00:00:00,30,30,Active,
+9,GAJ-CG-L-1246,Conveyer,300-350,04/03/2015 00:00:00,30,30,Active,
+10,AHM-PK-M-623,Packager,300-350,05/03/2015 00:00:00,30,20,Active,
+11,AHM-PK-M-723,Packager,100-110,01/04/2015 00:00:00,35,20,Active,
+12,AHM-PK-M-1052,Packager,100-110,02/04/2015 00:00:00,35,20,Active,
